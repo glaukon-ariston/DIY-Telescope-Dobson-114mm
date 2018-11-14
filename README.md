@@ -12,7 +12,7 @@ This thing holds the secondary mirror in place just below the focuser. It is mad
 <img src="images/IMG_20181113_205939.jpg" width="300px" hspace="1em" /> <img src="images/IMG_20181113_210158.jpg" width="300px" hspace="1em" /> <img src="images/IMG_20181113_211031.jpg" width="300px" hspace="1em" /> <img src="images/IMG_20181113_211113.jpg" width="300px" hspace="1em" />
 
 ## Focuser
-The focuser is made out of a [PG-36 cable gland](http://cableglandsdirect.com/pg36.html). The locking nut needs to be worked out with a utility knife in order to widen the opening to 32mm so it can receive a 1.25" eyepiece. The base locking nut needs a curve ground in it so it fits the tube snugly.
+The focuser is made out of a [PG-36 cable gland](http://cableglandsdirect.com/pg36.html). The locking nut needs to be worked out with a utility knife in order to widen the opening to 32mm so it can receive a 1.25" eyepiece. The base locking nut which is threaded needs a curve ground in it so it fits the tube snugly. It functions as a (pseudo) helical focuser -- you turn the focuser to change focus.
 
 <img src="images/IMG_20181113_212213.jpg" width="300px" hspace="1em" />
 
@@ -20,14 +20,17 @@ The focuser is made out of a [PG-36 cable gland](http://cableglandsdirect.com/pg
 The Super Plossl 26mm eyepiece is made out of 25mm-to-20mm [PP-R pipe fitting](http://www.pprpipefittings.com/), a [film canister](https://www.aliexpress.com/af/film-canister.html?SearchText=film+canister&origin=n&jump=afs) and an [eypiece lens set](https://www.surplusshed.com/pages/item/L1714.html) from Surplus Shed (two achromats and one DCX). The spacers for the lenses are cut from the film canister and fixed with a dab of superglue.
 
 ## Finder
-
+The eyepiece and the objective lens are taken from a broken binoculars. The new tube is a PVC electrical conduit. Made to fit using some blue eletrical tape and a little bit of hot gun persuasion.
 <img src="images/IMG_20181113_213300.jpg" width="300px" hspace="1em" /> <img src="images/IMG_20181113_213512.jpg" width="300px" hspace="1em" />
 
 ## Finder Holder
+A piece of the main telescope tube as a base, a piece of wood, a 50mm waste water pipe with six M4 screws.
 
 <img src="images/IMG_20181113_212845.jpg" width="300px" hspace="1em" />
 
 ## Tube 
+
+160mm waste water tube. Seen here with abrasive papers taped to it for grinding the focuser locking nut.
 
 <img src="images/IMG_20181113_213948.jpg" width="300px" hspace="1em" />
 
