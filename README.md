@@ -6,7 +6,7 @@ This thing holds the secondary mirror in place just below the focuser. It is mad
 <img src="images/IMG_20181113_205939.jpg" width="300px" hspace="1em"  /> <img src="images/IMG_20181113_210158.jpg" width="300px" hspace="1em"  /> <img src="images/IMG_20181113_211031.jpg" width="300px" hspace="1em"  /> <img src="images/IMG_20181113_211113.jpg" width="300px" hspace="1em"  />
 
 ## Focuser and Eyepieces
-The focuser is made out of a [PG-36 cable gland](http://cableglandsdirect.com/pg36.html). The locking nut needs to be worked out with a utility knife in order to widen the opening to 32mm so it can receive a 1 1/4" eyepiece.
+The focuser is made out of a [PG-36 cable gland](http://cableglandsdirect.com/pg36.html). The locking nut needs to be worked out with a utility knife in order to widen the opening to 32mm so it can receive a 1<sup>1/4</sup>" eyepiece.
 
 <img src="images/IMG_20181113_212213.jpg" width="300px" hspace="1em"  />
 
