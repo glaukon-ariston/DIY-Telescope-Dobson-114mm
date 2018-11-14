@@ -21,6 +21,7 @@ The Super Plossl 26mm eyepiece is made out of 25mm-to-20mm [PP-R pipe fitting](h
 
 ## Finder
 The eyepiece and the objective lens are taken from a broken binoculars. The new tube is a PVC electrical conduit. Made to fit using some blue eletrical tape and a little bit of hot gun persuasion.
+
 <img src="images/IMG_20181113_213300.jpg" width="300px" hspace="1em" /> <img src="images/IMG_20181113_213512.jpg" width="300px" hspace="1em" />
 
 ## Finder Holder
