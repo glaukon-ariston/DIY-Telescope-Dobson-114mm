@@ -27,18 +27,18 @@ The Super Plossl 26mm eyepiece is made out of 25mm-to-20mm [PP-R pipe fitting](h
 ## Finder
 The eyepiece and the objective lens are taken from a broken binoculars. The new tube is a PVC electrical conduit. Made to fit using some blue eletrical tape and a little bit of hot gun persuasion.
 
-<img src="images/IMG_20181113_213300.jpg" width="300px" hspace="1em" /> <img src="images/IMG_20181113_213512.jpg" width="300px" hspace="1em" />
+<img src="images/IMG_20181113_213300.jpg" width="300px" hspace="1em" /> <img src="images/IMG_20181113_213512.jpg" height="225px" hspace="1em" />
 
 ## Finder Holder
 A piece of the main telescope tube as a base, a piece of wood, a 50mm waste water pipe with six M4 screws.
 
-<img src="images/IMG_20181113_212845.jpg" width="300px" hspace="1em" />
+<img src="images/IMG_20181113_212845.jpg" height="225px" hspace="1em" />
 
 ## Tube 
 
 160mm waste water tube. Seen here with abrasive papers taped to it for grinding the focuser locking nut. Already painted inside with a black matte finish spray can (after spraying with plastic primer first).
 
-<img src="images/IMG_20181113_213948.jpg" width="300px" hspace="1em" /> <img src="images/DSC_0009.JPG" width="300px" hspace="1em" />
+<img src="images/IMG_20181113_213948.jpg" height="225px" hspace="1em" /> <img src="images/DSC_0009.JPG" width="300px" hspace="1em" />
 
 
 
