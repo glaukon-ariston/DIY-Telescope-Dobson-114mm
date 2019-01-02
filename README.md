@@ -36,9 +36,17 @@ A piece of the main telescope tube as a base, a piece of wood, a 50mm waste wate
 
 ## Tube 
 
-160mm waste water tube. Seen here with abrasive papers taped to it for grinding the focuser locking nut. Already painted inside with a black matte finish spray can (after spraying with plastic primer first).
+A 160mm diameter waste water tube. Seen here with abrasive papers taped to it for grinding the focuser locking nut. Already painted inside with a black matte finish spray can (after spraying with plastic primer first).
 
 <img src="images/IMG_20181113_213948.jpg" height="225px" hspace="1em" /> <img src="images/DSC_0009.JPG" width="300px" hspace="1em" />
+
+Centering the spider using a centering tool inserted in the focuser and a paper template.
+
+<img src="images/DSC_0025.JPG" width="300px" hspace="1em" /> <img src="images/DSC_0027.JPG" height="225px" hspace="1em" /> 
+
+A view through the centering tool. You can see the paper template reflection in the secondary mirror.
+
+<img src="images/DSC_0029.JPG" height="225px" hspace="1em" />
 
 
 
